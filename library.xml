@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Library>
+    <Books category="technical">
+        <Book ISBN="0024176780">
+            <title>Computer Science 101</title>
+            <author>John Doe</author>
+        </Book>
+        <Book ISBN="129384793">
+            <title>Data Structures and Algorithms</title>
+            <author>Mary Price</author>
+        </Book>
+    </Books>
+    <Books category="cookery">
+        <Book ISBN="3847392829">
+            <title>Rapid Breakfast Ideas</title>
+            <author>Tom Ryan</author>
+        </Book>
+        <Book ISBN="7282837373">
+            <title>Meal Prep For Beginners</title>
+            <author>Jane Austin</author>
+        </Book>
+    </Books>
+</Library>
